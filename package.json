@@ -1,0 +1,18 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Simple API to save and retrieve plain text",
+  "main": "api/text.js",
+  "scripts": {
+    "start": "node api/text.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=14.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
