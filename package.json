@@ -11,7 +11,6 @@
   },
   "engines": {
     "node": ">=14.x"
-<<<<<<< HEAD
   },
   "devDependencies": {},
   "repository": {
@@ -27,7 +26,4 @@
     "url": "https://github.com/YYY7gh/VoidPing/issues"
   },
   "homepage": "https://github.com/YYY7gh/VoidPing#readme"
-=======
-  }
->>>>>>> 33b86bf1e3a0c4d14267308c964f207d813074b0
 }
